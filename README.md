@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Passionate software developer with a love fo
 
 🛠 Technologies & Tools
 
-html5 css3 javascript react tailwind nodejs express python django mongodb postgresql git visualstudio docker
+html5 css3 javascript react tailwind nodejs python django mongodb postgresql git visualstudio docker
 
 ☀️ Let's Connect!
 
