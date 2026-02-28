@@ -1,6 +1,6 @@
-# Hi there, I'm Chiko Charles! 👋
+# Hi there, I'm Merve Yuvacı! 👋
 
-🌎 Based in Harare, Zimbabwe | 💡 Passionate about building innovative solutions
+🌎 Based in Turkey, Istanbul | 💡 Passionate about building innovative solutions
 
 *Machine Learning | Data Scientist | Dashboard Expert | Reporting Analyst | OpenAI | Flutter | Web Developer*
 
@@ -21,16 +21,3 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 <a href="https://linkedin.com/in/charleschiko"><img src="https://raw.githubusercontent.com/sh4hids/social-badges/main/badges/linkedin/linkedin1.svg" alt="linkedin" height="30"/></a> <a href="mailto:charliechicco@gmail.com"><img src="https://raw.githubusercontent.com/sh4hids/social-badges/main/badges/gmail/gmail1.svg" alt="gmail" height="30"/></a>
 
 ***
-
-### 🧬 Fun Fact
-
-I once wrote a script that automated my morning coffee routine! ☕️ 🤖
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Chiko Chrles"
-        self.role = "Passionate AI | Software Engineer"
