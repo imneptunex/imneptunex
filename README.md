@@ -4,7 +4,7 @@
 
 *GenAI | Machine Learning | Robotics (ROS) | Flutter | Computer Vision | Edge AI / Web and Mobile Development*
 
-Welcome to my GitHub profile! I am a 4th-year Computer Engineering student and a Junior AI Engineer passionate about bridging the gap between Generative AI and physical robotics. From winning 1st place in Meta's Developer Competition to building autonomous edge robots, I love turning complex logic into user-centric applications.
+Welcome to my GitHub profile! I am a 4th-year Computer Engineering student and a Junior AI Engineer passionate about bridging the gap between Generative AI and physical robotics.
 
 ---
 
