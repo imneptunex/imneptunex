@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a 4th-year Computer Engineering student and a
 
 ### 🏆 Featured Achievements
 * **1st Place Winner** - Meta Horizon Start Developer Competition
-Samsung Innovation Campus (ECHO AI Disaster Response) 
+* Samsung Innovation Campus (ECHO AI Disaster Response) 
 
 ---
 
